@@ -1,3 +1,4 @@
-## Semina 3
+## Seminar 3
 
-## Change from local S
+## Change from local repository
+## Change from remote repository
